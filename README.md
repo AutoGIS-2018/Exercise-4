@@ -10,7 +10,7 @@ The overall aim this week is to define dominance areas [0] for 8 shopping center
 
 
 
-### Problem 1: Join accessibility datasets into a grid and visualize them by using a classifier (10 points)
-### Problem 2: Calculate and visualize the dominance areas of shopping centers (10 points)
-### Problem 3: How many people live under the dominance area of each shopping center? (OPTIONAL)
+- Problem 1: Join accessibility datasets into a grid and visualize them by using a classifier (10 points)
+- Problem 2: Calculate and visualize the dominance areas of shopping centers (10 points)
+- Problem 3: How many people live under the dominance area of each shopping center? (OPTIONAL)
 
